@@ -2,12 +2,11 @@
 using namespace std;
 int main()
 {
-    int i=1;
-    lable:
-    if(i<=5)
+    int m;
+    cout<<"enter a number:"<<endl;
+    cin>>m;
+    for(int i=0 ;i<=m;i++)
     {
         cout<<"i="<<i<<endl;
-        i++;
-        goto lable;
     }
 }
