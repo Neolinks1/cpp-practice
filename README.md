@@ -9,9 +9,9 @@ A collection of C++ exercises for learning and practice
 
 متغیرها و عملگرها
 
-دستورات شرطی (if، switch)
+دستورات شرطی (if، switch)✔
 
-حلقه‌ها (for، while، do-while)
+حلقه‌ها (for، while، do-while)✔
 
 توابع
 
